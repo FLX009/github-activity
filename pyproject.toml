@@ -1,0 +1,13 @@
+[project]
+name = "gh-activity"
+version = "0.1.0"
+description = "CLI to fetch a GitHub user's recent public activity"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+github-activity = "gh-activity:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
