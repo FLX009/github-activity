@@ -1,6 +1,6 @@
 ## GitHub User Activity
-This is CLI application made on python and utilizes the GitHub API.
-I   t can output the most recent public events from a GitHub user.
+This is CLI application made on python and utilizes the GitHub API.\
+It can output the most recent public events from a GitHub user.
 
 # How to install
 ```bash
